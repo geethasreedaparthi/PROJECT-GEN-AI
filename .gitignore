@@ -1,0 +1,15 @@
+# Environment variables and local secrets
+.env
+.env.local
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE and Streamlit local state
+.vscode/
+.idea/
+.streamlit/
